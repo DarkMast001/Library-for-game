@@ -1,0 +1,15 @@
+C:\Users\demas\OneDrive\Документы\Институт\2 курс 1 семестр\OOP\lab3\Millitary Convoy Game\MillitaryShipConvoy\bin\Debug\net7.0\MillitaryShipConvoy.deps.json
+C:\Users\demas\OneDrive\Документы\Институт\2 курс 1 семестр\OOP\lab3\Millitary Convoy Game\MillitaryShipConvoy\bin\Debug\net7.0\MillitaryShipConvoy.dll
+C:\Users\demas\OneDrive\Документы\Институт\2 курс 1 семестр\OOP\lab3\Millitary Convoy Game\MillitaryShipConvoy\bin\Debug\net7.0\MillitaryShipConvoy.pdb
+C:\Users\demas\OneDrive\Документы\Институт\2 курс 1 семестр\OOP\lab3\Millitary Convoy Game\MillitaryShipConvoy\bin\Debug\net7.0\UnityEngine.dll
+C:\Users\demas\OneDrive\Документы\Институт\2 курс 1 семестр\OOP\lab3\Millitary Convoy Game\MillitaryShipConvoy\bin\Debug\net7.0\UnityEngine.xml
+C:\Users\demas\OneDrive\Документы\Институт\2 курс 1 семестр\OOP\lab3\Millitary Convoy Game\MillitaryShipConvoy\obj\Debug\net7.0\MillitaryShipConvoy.csproj.AssemblyReference.cache
+C:\Users\demas\OneDrive\Документы\Институт\2 курс 1 семестр\OOP\lab3\Millitary Convoy Game\MillitaryShipConvoy\obj\Debug\net7.0\MillitaryShipConvoy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demas\OneDrive\Документы\Институт\2 курс 1 семестр\OOP\lab3\Millitary Convoy Game\MillitaryShipConvoy\obj\Debug\net7.0\MillitaryShipConvoy.AssemblyInfoInputs.cache
+C:\Users\demas\OneDrive\Документы\Институт\2 курс 1 семестр\OOP\lab3\Millitary Convoy Game\MillitaryShipConvoy\obj\Debug\net7.0\MillitaryShipConvoy.AssemblyInfo.cs
+C:\Users\demas\OneDrive\Документы\Институт\2 курс 1 семестр\OOP\lab3\Millitary Convoy Game\MillitaryShipConvoy\obj\Debug\net7.0\MillitaryShipConvoy.csproj.CoreCompileInputs.cache
+C:\Users\demas\OneDrive\Документы\Институт\2 курс 1 семестр\OOP\lab3\Millitary Convoy Game\MillitaryShipConvoy\obj\Debug\net7.0\MillitaryShipConvoy.csproj.CopyComplete
+C:\Users\demas\OneDrive\Документы\Институт\2 курс 1 семестр\OOP\lab3\Millitary Convoy Game\MillitaryShipConvoy\obj\Debug\net7.0\MillitaryShipConvoy.dll
+C:\Users\demas\OneDrive\Документы\Институт\2 курс 1 семестр\OOP\lab3\Millitary Convoy Game\MillitaryShipConvoy\obj\Debug\net7.0\refint\MillitaryShipConvoy.dll
+C:\Users\demas\OneDrive\Документы\Институт\2 курс 1 семестр\OOP\lab3\Millitary Convoy Game\MillitaryShipConvoy\obj\Debug\net7.0\MillitaryShipConvoy.pdb
+C:\Users\demas\OneDrive\Документы\Институт\2 курс 1 семестр\OOP\lab3\Millitary Convoy Game\MillitaryShipConvoy\obj\Debug\net7.0\ref\MillitaryShipConvoy.dll
